@@ -1,0 +1,6 @@
+{
+  "name": "Compass Cam",
+  "description": "Cámara nativa a pantalla completa con brújula tipo regla graduada y captura con overlay para Samsung Galaxy S21.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

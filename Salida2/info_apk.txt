@@ -1,0 +1,5 @@
+Carpeta Salida2:
+Aquí se encuentra el archivo APK compilado de Compass Cam:
+- compass-cam.apk (58.7 MB)
+- app-debug.apk (58.7 MB)
+Generado con éxito para Samsung Galaxy S21 (Android 15).

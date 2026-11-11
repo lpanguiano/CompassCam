@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Compass Cam</string>
+    <string name="permission_camera_rationale">Se requiere permiso de cámara para ver el visor con la brújula en tiempo real.</string>
+    <string name="permission_location_rationale">Se requiere permiso de ubicación precisa para calibrar la brújula y el magnetómetro con máxima precisión.</string>
+    <string name="grant_permissions">Conceder permisos</string>
+    <string name="capture_image">Capturar imagen con brújula</string>
+    <string name="image_saved">Imagen guardada</string>
+    <string name="saving_image">Guardando captura con regla de brújula…</string>
+    <string name="save_failed">Error al guardar la imagen</string>
+    <string name="north">N</string>
+    <string name="east">E</string>
+    <string name="south">S</string>
+    <string name="west">O</string>
+</resources>
